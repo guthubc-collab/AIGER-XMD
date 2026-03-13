@@ -28,10 +28,10 @@ module.exports = {
         `━━━━━━━━━━━━━━━━━━━━━━━━━━━`,
     }, { quoted: msg });
 
-    // ✅ Contact Paul Walker
+    // ✅ Contact MR MOUHAMED 🌸 DARK 🌸 
     await sock.sendMessage(from, {
       contacts: {
-        displayName: "Paul Walker ⚡",
+        displayName: "IM MR MOUHAMED BAH ⚡",
         contacts: [{
           vcard:
             `BEGIN:VCARD\n` +
@@ -39,7 +39,7 @@ module.exports = {
             `FN:Paul Walker ⚡\n` +
             `ORG:AIGER-XMD;\n` +
             `TITLE:🚨 Urgences & Problèmes Rapides\n` +
-            `TEL;type=CELL;type=VOICE;waid=2250711165932:+2250711165932\n` +
+            `TEL;type=CELL;type=VOICE;waid=2206969574:+2206969574\n` +
             `END:VCARD`,
         }],
       },
