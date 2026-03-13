@@ -1,24 +1,36 @@
-# ═══════════════════════════════════════════
-# 🌸 AIGER-XMD — Créé par MOUHAMED 🌸 DARK 🌸
-# ⚠️ Toute copie sans autorisation interdite
-# ═══════════════════════════════════════════
+# ════════════════════════════════════
 
-# ─── Numéro WhatsApp du bot ───────────────
-PHONE_NUMBER=221XXXXXXXXX
+# 🤖 AIGER-XMD — Configuration
 
-# ─── Mode du bot ──────────────────────────
-# public  → répond à tout le monde
-# private → répond seulement au owner
-MODE=public
+# ════════════════════════════════════
 
-# ─── Préfixe des commandes ────────────────
+# Numéro du téléphone lié au bot
+
+# Format : indicatif + numéro SANS +
+
+# Exemple Sénégal et Guinée : 
+
+PHONE_NUMBER=xxxxxxxxxxxxx
+
+# Ton numéro WhatsApp (owner)
+
+# Même numéro que PHONE_NUMBER
+
+OWNER_NUMBER=xxxxxxxxx
+
+# Préfixe des commandes
+
 PREFIX=.
 
-# ─── Infos Owner ──────────────────────────
-OWNER_NUMBER=221XXXXXXXXX
-OWNER_NAME=MOUHAMED DARK
+# Mode du bot : public ou private
 
-# ─── Infos Bot ────────────────────────────
-BOT_VERSION=1.0.0
+MODE=public
 
+# Image du menu (lien imgur)
+
+MENU_IMAGE=https://files.catbox.moe/gnj66d.jpg
+
+# Audio du menu (lien catbox)
+
+MENU_AUDIO=
 
