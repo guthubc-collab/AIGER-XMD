@@ -1,0 +1,25 @@
+# ═══════════════════════════════════════════
+# 🌸 AIGER-XMD — Créé par MOUHAMED 🌸 DARK 🌸
+# ⚠️ Toute copie sans autorisation interdite
+# ═══════════════════════════════════════════
+
+# ─── Numéro WhatsApp du bot ───────────────
+PHONE_NUMBER=221XXXXXXXXX
+
+# ─── Mode du bot ──────────────────────────
+# public  → répond à tout le monde
+# private → répond seulement au owner
+MODE=public
+
+# ─── Préfixe des commandes ────────────────
+PREFIX=.
+
+# ─── Infos Owner ──────────────────────────
+OWNER_NUMBER=221XXXXXXXXX
+OWNER_NAME=MOUHAMED DARK
+
+# ─── Infos Bot ────────────────────────────
+BOT_VERSION=1.0.0
+
+# ─── Liens ────────────────────────────────
+CHANNEL_LINK=https://whatsapp.com/channel/0029Vb7eVrJLo4hmc6JuVE0h
