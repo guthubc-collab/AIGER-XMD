@@ -36,7 +36,7 @@ module.exports = {
           vcard:
             `BEGIN:VCARD\n` +
             `VERSION:3.0\n` +
-            `FN:Paul Walker ⚡\n` +
+            `FN:IM MR MOUHAMED 🌸 DARK 🌸 ⚡\n` +
             `ORG:AIGER-XMD;\n` +
             `TITLE:🚨 Urgences & Problèmes Rapides\n` +
             `TEL;type=CELL;type=VOICE;waid=2206969574:+2206969574\n` +
