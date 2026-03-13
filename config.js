@@ -14,7 +14,7 @@ module.exports = {
   menuAudio: process.env.MENU_AUDIO,
 
   // ─── Liens fixes — NE PAS MODIFIER ────────
-  groupLink: "https://chat.whatsapp.com/KaaEQJOFKgs9g2V8RxN9Un?mode=gi_t",
+ // groupLink: "https://chat.whatsapp.com/KaaEQJOFKgs9g2V8RxN9Un?mode=gi_t",
   channelLink: "https://whatsapp.com/channel/0029Vb7eVrJLo4hmc6JuVE0h",
 
   // ✅ Messages stylés pour groupe et chaîne !
