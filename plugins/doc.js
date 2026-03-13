@@ -22,7 +22,7 @@ module.exports = {
         `AIGER-XMD est un bot WhatsApp\n` +
         `100% gratuit, open-source et sécurisé\n` +
         `créé par *MOUHAMED 🌸 DARK 🌸*\n\n` +
-        `📅 *Date de création :* 2025\n` +
+        `📅 *Date de création :* 2026\n` +
         `⚡ *Version actuelle :* V1\n` +
         `🎯 *Commandes :* 50+\n\n` +
         `━━━━━━━━━━━━━━━━━━━━━━━━━━━\n` +
@@ -53,8 +53,8 @@ module.exports = {
         `━━━━━━━━━━━━━━━━━━━━━━━━━━━\n` +
         `👨‍💻 *CRÉATEURS :*\n` +
         `━━━━━━━━━━━━━━━━━━━━━━━━━━━\n` +
-        `🌸 *MOUHAMED* — Développeur principal\n` +
-        `🌸 *DARK* — Co-développeur\n\n` +
+        `🌸 *MR MHD* — Développeur principal\n` +
+        `🌸 *MR MOUHAMED BA* — Co-développeur\n\n` +
         `━━━━━━━━━━━━━━━━━━━━━━━━━━━\n` +
         `📢 _Rejoins notre chaîne pour_\n` +
         `_les mises à jour !_ 🔔\n\n` +
